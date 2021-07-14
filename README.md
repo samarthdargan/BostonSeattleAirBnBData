@@ -40,3 +40,12 @@ For each city, the dataset is composed of two CSV files:
 4.**Data Modeling** Linear Regression model is used for seperatly for boston and seattle
 
 5.**Evaluate the Results** Result and discussion are published in https://medium.com/@sam11.exultant/why-airbnb-homes-prices-differ-seattle-vs-boston-6a251a9db0d
+
+## Results of the Analysis ##
+
+1. Seattle has 3.9K properties, 37% more than Boston. But Avg price of the property in Boston is 10% higher than in Seattle.
+2. For Seattle City Avg Price for an Entire Apartment and Hotel Room is similar, whereas for Boston City, their Entire home costs ~5% high price
+3. August is Peak Season for Seattle where prices are high, whereas peak season for Boston is during holidays.
+
+## Acknowledgement ##
+Thanks a lot for InsideAirBnb for providing us data 
