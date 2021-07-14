@@ -19,7 +19,7 @@ For each city, the dataset is composed of two CSV files:
 - calendar.csv.gz  -  availability and price information by day
 
 
-Comparative analysis on how prices vary for Boston and Seattle cities
+**Comparative analysis on how prices vary for Boston and Seattle cities**
 
 1. **Business Understanding** Airbnb is in property rental business, we want to do a comparative analysis for Boston and Seattle Market differ in various aspects and following are the important question to answer
 - Q1 Is there any significant difference between Seattle and Boston AirBnB Homes.
