@@ -2,6 +2,23 @@
 
 Link to Access complete analysis : https://medium.com/@sam11.exultant/why-airbnb-homes-prices-differ-seattle-vs-boston-6a251a9db0d
 
+**Motivation** : For this project, We want to explore the Boston and Seattle Airbnb dataset and find out the answer for below business questions
+
+**Installation**
+This project requires Python 3.7 and the following Python libraries installed:
+1. Pandas
+2. Numpy
+3. MatPlotLib
+4. SciKitLearn
+
+**File Descriptions**
+For each city, the dataset is composed of two CSV files:
+
+- listings (1).csv.gz -  all detailed informations about listings
+
+- calendar.csv.gz  -  availability and price information by day
+
+
 Comparative analysis on how prices vary for Boston and Seattle cities
 
 1. **Business Understanding** Airbnb is in property rental business, we want to do a comparative analysis for Boston and Seattle Market differ in various aspects and following are the important question to answer
